@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Harshit Dwivedi
+Created by Harshit Dwivedi.
